@@ -1,0 +1,142 @@
+
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.b-example-vr {
+    flex-shrink: 0;
+    width: 1.5rem;
+    height: 100vh;
+}
+
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+
+.nav-scroller {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+}
+
+.nav-scroller .nav {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-bottom: 1rem;
+    margin-top: -1px;
+    overflow-x: auto;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+}
+#exampleInputEmail1 {
+    width: 100%;
+}
+#exampleInputPassword1{
+    width:100%;
+}
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 50px;
+}
+#booking-detail-input {
+    /*width: 500px;*/
+    height: 300px;
+}
+.card{
+    height: 400px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.button1 {
+    background-color: #90EE90;
+    color: white;
+    padding: 8px 16px;
+}
+
+.button2 {
+    background-color: red;
+    color: white;
+    padding: 8px 16px;
+}
+.footerContainer{
+    background-color: skyblue;
+    display:flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 1em;
+
+}
+
+.agency-header {
+    background-color: #90EE90;
+}
+.agency-header h1 {
+    color: white;
+    font-size: 3em;
+}
+.agency-header h3 {
+    color: white;
+    font-size: 2em;
+}
+.featurette-divider{
+    color:red;
+}
+.btnDetail{
+    background-color:#90EE90;
+}
+.navbar{
+    background-color: skyblue;
+    font-size: 1.3em;
+}
+.cardBackground{
+    background-color: #90EE90;
+}
+.edmitModelImage{
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+}
+
+
+
+
+
